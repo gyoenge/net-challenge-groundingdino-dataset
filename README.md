@@ -1,11 +1,11 @@
-## groundingDINO finetune dataset
+## Net Challenge Project - Dataset 
 
-- 2023 net challenge AI dataset code
-- for groundingDINO finetune : https://github.com/gyoenge/net-challenge-groundingdino-finetune
+### GroundingDINO Finetuning Dataset Code 
 
----
+- This repository contains the code used to create and preprocess the custom dataset for fine-tuning the GroundingDINO model.
+- The main code for this project is located in the [gyoenge/net-challenge-groundingdino-finetune](https://github.com/gyoenge/net-challenge-groundingdino-finetune) repository. <br/> Please visit it for more details about the project.
 
-### description
+### Description
 
 - hand labeling to annotation.csv :  
     1. prepare folders : 
@@ -48,4 +48,3 @@
         ```
         python aihub_to_yolo/aihub_to_yolov8txt.py
         ```
-
